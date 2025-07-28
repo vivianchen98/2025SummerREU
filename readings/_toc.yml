@@ -1,0 +1,16 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: 0_intro
+chapters:
+- file: 1_pacman_problem
+- file: 2_search
+- file: 3_dfs
+- file: 4_bfs
+- file: 5_analyze_search
+- file: 6_mdp
+- file: 7_value_iteration
+- file: 8_q_learning
+- file: 9_approx_q_learning
+- file: 10_reflection
