@@ -68,5 +68,5 @@ pip install numpy
 
 ## 📄 License
 
-Portions of this project are adapted from [UC Berkeley CS188](http://ai.berkeley.edu/project_overview.html).
+Portions of this project are adapted from UC Berkeley CS188.
 See individual files for licensing and attribution.
