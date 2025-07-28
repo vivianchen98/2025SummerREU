@@ -32,8 +32,6 @@ A guided learning path that covers:
 │   └── ...
 ```
 
----
-
 ## 🚀 Quick Start
 
 ### Step 1: Clone and Set Up
@@ -56,7 +54,6 @@ If you see missing packages during runtime (e.g., `numpy`), install them manuall
 pip install numpy
 ```
 
----
 
 ## 🛠️ How to Use
 
@@ -64,7 +61,6 @@ pip install numpy
 2. Follow the instructions in each section
 3. Implement and test your code in the corresponding Python files
 
----
 
 ## 📄 License
 
