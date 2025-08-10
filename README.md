@@ -34,6 +34,10 @@ A guided learning path that covers:
 
 ## 🚀 Quick Start
 
+## Before You Start
+
+[**Project Setup 101**](https://boatneck-iberis-1aa.notion.site/Project-Setup-101-23a187290fc08029843bdb7cf3969231) covers basic Python, virtual environments, and Git to get you ready fast.
+
 ### Step 1: Clone and Set Up
 
 ```bash
