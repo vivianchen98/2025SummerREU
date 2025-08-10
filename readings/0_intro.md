@@ -8,6 +8,8 @@ Welcome to your **Summer REU mini-project** on _Search and Reinforcement Learnin
 
 ![Pacman in action](media/pacman_game.gif)
 
+You can access all the project code and materials at [our GitHub repository](https://github.com/vivianchen98/2025SummerREU).
+
 ---
 
 ## 🎯 Why Pacman?
